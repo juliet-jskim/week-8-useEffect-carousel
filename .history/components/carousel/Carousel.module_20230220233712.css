@@ -1,0 +1,14 @@
+
+.main_container{
+    
+}
+
+
+.arrows{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 26rem;
+    padding-top: 10rem;
+    
+}

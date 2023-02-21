@@ -1,0 +1,9 @@
+/** use flex or grid here*/
+
+.home_link{
+   
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    writing-mode: vertical-lr;
+}

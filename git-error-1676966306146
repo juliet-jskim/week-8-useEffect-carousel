@@ -1,0 +1,4 @@
+
+> git add -A -- .
+error: 'week-8-useEffect-carousel/' does not have a commit checked out
+fatal: adding files failed

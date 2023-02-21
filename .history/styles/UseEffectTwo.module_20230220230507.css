@@ -1,0 +1,30 @@
+
+.main_container{
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+
+.home_link{
+    font-size: 8rem;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    writing-mode: vertical-lr;
+    letter-spacing: 3rem;
+}
+
+.use_effect_two{
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+    gap: 7rem;
+    margin-top: -13.2rem;
+    background: rgb(141,134,255);
+    background: linear-gradient(90deg, rgba(141,134,255,1) 0%, rgba(255,0,0,1) 100%);
+    z-index: -1;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 10rem;
+}

@@ -1,0 +1,17 @@
+
+.main_container{
+    background-repeat: no-repeat;
+    overflow-y: hidden;
+}
+
+.home_link{
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    writing-mode: vertical-lr;
+    letter-spacing: 3rem;
+}
+
+.use_effect_two{
+    
+}

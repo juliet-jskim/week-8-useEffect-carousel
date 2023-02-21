@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  /* flex-direction: column; */
+  justify-content: center;
+  gap: 1rem;
+  align-items: center;
+  /* padding-top: 10rem; */
+  min-height: 100vh;
+  border: 1px solid white;
+  background: no-repeat;
+}
+

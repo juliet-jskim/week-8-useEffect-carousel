@@ -1,0 +1,16 @@
+
+.main_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.arrows{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 26rem;
+    padding-top: 10rem;
+    
+}

@@ -1,0 +1,84 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  align-items: center;
+  /* padding-top: 10rem; */
+  min-height: 100vh;
+  border: 1px solid rgb(255, 255, 255);
+  background: no-repeat;
+}
+
+.link_one{
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #a9d2f1;
+  border: none;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+}
+.link_one:hover{
+  font-size: 1.4rem;
+  opacity: 1;
+  transition: 0.3s;
+}
+
+.link_two{
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #b4a9f1;
+  border: none;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+}
+.link_two:hover{
+  font-size: 1.4rem;
+  opacity: 1;
+  transition: 0.3s;
+  }
+  
+.link_three{
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #d39de0;
+  border: none;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+}
+.link_three:hover{
+  font-size: 1.4rem;
+  opacity: 1;
+  transition: 0.3s;
+  }
+  
+.link_carousel{
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: #b3ddb3;
+  border: none;
+  padding: 1rem 2rem;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.8;
+}
+.link_carousel:hover{
+  font-size: 1.4rem;
+  opacity: 1;
+  transition: 0.3s;
+  }
+  

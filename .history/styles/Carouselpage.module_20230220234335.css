@@ -1,0 +1,14 @@
+/** use flex or grid here*/
+.main_container{
+    display: flex;
+    flex-direction: column;
+}
+.home_link{
+    font-size: 5rem;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    z-index: -1;
+    padding-top: 10rem;
+    display: flex;
+    justify-content: center;
+}
